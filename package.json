@@ -1,0 +1,14 @@
+{
+  "name": "Simple Tool",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "client"
+  ],
+  "author": "Narin",
+  "contributors": [],
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
